@@ -38,7 +38,8 @@ intrusion-detection-system/
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/priyanshu0607/NetworkPacketFilteringML.git
-   cd intrusion-detection-system
+   cd NetworkPacketFilteringML
+   or what the folder name is
    ```
 
 2. **Set Up a Virtual Environment:**
