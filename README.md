@@ -37,7 +37,7 @@ intrusion-detection-system/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Aymuos22/intrusion-detection-system.git
+   git clone https://github.com/priyanshu0607/NetworkPacketFilteringML.git
    cd intrusion-detection-system
    ```
 
